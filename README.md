@@ -86,9 +86,14 @@ If you are demoing the platform or presenting it, follow these steps to run it l
 
 ---
 
-## 🎨 Design System Note for Presenters
+## Screenshots
 
-For the presentation, highlight the responsive, application-like feel of the interface. 
+<img width="1731" height="1796" alt="image" src="https://github.com/user-attachments/assets/d656101e-e7b3-41aa-a72b-4c61c86f63ae" />
 
-- The **Main `App` component** handles the conditional rendering between `"search"`, `"login"`, `"signup"`, and `"detail"` views, creating a Single Page Application (SPA) experience without needing hard page reloads.
-- The UI follows strict alignment and branding guidelines, utilizing a core `#0240d9` thematic blue and centering navigation elements perfectly using CSS Flexbox.
+<img width="1731" height="914" alt="image" src="https://github.com/user-attachments/assets/fb04754f-570e-4904-9778-b6a62cac6882" />
+
+<img width="1731" height="1052" alt="image" src="https://github.com/user-attachments/assets/c16e526f-7d72-468d-81d9-f775ca24400b" />
+
+<img width="466" height="830" alt="image" src="https://github.com/user-attachments/assets/801bb906-0a77-4ae9-a81d-3f395c566896" />
+
+
